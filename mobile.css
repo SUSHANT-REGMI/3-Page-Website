@@ -1,0 +1,154 @@
+#navbar h1{
+  float: none;
+  padding-top: 5px;
+  font-size: 22px;
+  text-align: center;
+  
+}
+.logo{
+  padding-left: 0px;
+}
+#navbar ul{
+  list-style: none;
+  float: none;
+  text-align: center;
+}
+#navbar ul li{
+  float: none ;
+  display: inline-block;
+  text-align: center;
+  
+}
+#navbar ul li a{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 35px;
+  padding-right:35px;
+  margin: 2px;
+  box-sizing: border-box;
+  text-align: center;
+}
+#showcase .showcase-content{
+    padding-top: 60px;
+}
+#showcase .showcase-content h1{
+  font-size: 35px;
+}
+#showcase .showcase-content a {
+  font-size: 18px;
+  
+  padding: 20px;
+  
+}
+#showcase .showcase-content .btn{
+ margin: 50px;
+}
+#home-info{
+  height: 280px;
+}
+#home-info .info-img{
+  display: none;
+}
+#home-info .content{
+  float: none;
+  width: 100%;
+}
+
+.features{
+  background: rgba(155, 233, 255, 0.387);
+  float: none;
+  display: block;
+  padding: 10px 20px 10px 20px;
+  width: 100%;
+  text-align: center;
+}
+#about {
+  height: 630px;
+}
+#about .container .about-hotel-left{
+  text-align: justify;
+  float: none;
+  width: 100%;
+  
+  line-height: 1.3em;
+  padding: 5px;
+}
+#about .container .about-hotel-right{
+  float: none;
+  width: 100%;
+}
+
+.l-heading{
+  font-size: 22px;
+  padding: 10px 2.5px ;
+  padding-bottom: 10px;
+}
+.description2{
+  
+  font-size: 15px;
+  color: white;
+  padding: 0px ;
+}
+.content a{
+  font-size: 16px;
+  padding: 10px;
+  
+}
+#home-info{
+  height: 300px;
+}
+#testimonials{
+  height: 770px;
+  padding-top: 20px;
+}
+#testimonials .container h2{
+  text-align: center;
+  font-size: 26px;
+  padding-bottom: 25px;
+}
+#contactus{
+  height: 550px;
+}
+
+#contactus h2{
+  padding-left: 16px;
+  padding-top: 16px;
+}
+#contactus .feature-description{
+  padding-left: 16px;
+  
+}
+#contactus .form-group{
+  padding : 16px;
+  padding-left: 16px;
+  font-size: 12px;
+
+}
+#contactus label {
+  display: block;
+  margin-bottom: 2.5px;
+}
+#contactus input,
+#contactus textarea{
+  width: 100%;
+  padding: 5px;
+  border: 1px #ddd solid;
+}
+#contactus textarea{
+  height: 100px;
+}
+.button2 {
+  
+  font-size: 18px;
+  color: #fff;
+  background: #333;
+  padding: 6.5px 16px;
+  border: none;
+  cursor: pointer;
+  margin-left: 16px;
+}
+.bottom-text{
+  padding: 0px 16px;
+  line-height: 5px;
+  font-size: 7px;
+}
